@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enr-smart-parking",
+  "private_key_id": "5d9354281ff478663094260a8ae4339c7c48d040",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDf+r/nkRQdPTWF\nZIrPBs36MFdKsqZ+aIjVsOm/S1Rgj26FSPfSpT5LI+zmodR9XV3OzF1Yd+hfJDik\nXRIrjCGj3klCK/xDH/nDI3tAHUmEcwL0jHrZ8E4DwFmhnVarkIUKi7HgOcg5TIOq\nNekkGFsw0xBz5I+mJJZuYdFPaB8PiOGtfnxMF461GlP7FUjYsqxZI4jjIs6Dek7+\n2IjRewxW8Ah4wUz8eMYJnWp8N3DYOqSA6tKCbR8vNi7WkRblP1ODCvThrVWzbBHf\nnNeBk0eKMkr7FsZxQtNcgLUrRFl8H+bpGMIlwip0ya5b/tHYlzaagTTanf92iRMz\nCaAqAsxpAgMBAAECggEAPkaMASjXfOG99d7ksXdk4gF64+wUWuVZ1oCgHW4mgcqf\nojONpGYJkf7lKaMpX8oMASnVcnm0hG+fyCOQn8cQu21c1SdBtrA3U8iTxlneTRNl\naPV+WwZzyps60LLcnEtMkogQ5xVp1HSvzy26Ky0SfdrRokeUoU9e/EX6WqfKqxiQ\nutCw3DtSXl+aM2SoPKsH9uKUocQCg1Ff+DL0gga7QlLtXGPoxyMg3Mffrmnn+YPG\nhwanGrBhxJqfCwTV2Hpf5INBI6PgBA/mkSkelwqKYP3kfTt1ubojuN29mQvnD0K/\n1y+hEPWb9rr4Ztt3jqmNdnw59EpuR9z9O6IVZjHTuQKBgQD8/7ym3jFL/xCjgnXX\n+aTPZtfu68QO+Wa2b/BDkas5Fa5B4g3DnlVU3J0cGPadDcPvSc6Cfavze2LwcW7q\nbxB6YQjfX6SNT8eGzoorU+ab5UN6WSyZW/dVv9UJx7aEef7NB41q+b30CPWvUWBD\njKJKEVNcFKIF+ClNxuEKBf8ZawKBgQDiouQztoB7RsVDS/3FUKLbfI60vR04UEfe\nOAsvrzPdIWtddLaOBGxT+7w37vY4z5vv31ghlP0DSKeAEJ3gaQez3NCi9+QJGX5Z\nbk5iVbnpqbSo269MK7870hedeCgk7jXn+uVkCFKXv2DOmmXuyHiWx9BNfBwGuT/d\nWmkHUKxCewKBgQCRqB6Rp4yUJ0YKDRsRe82yBpC9IgmfYWEMGcgm7p+4Xs4TajTo\ncajJEbZ2Lb0V0I4EnuaA5B9yL5BXw8bKu6SuAF2eVK8lGFBUQWb06Pn0uPqvXtW5\neWQdfzMEzXE8NgxHOFjnxN7it6HTDLOyUC5DHFR0yAA8FZKaD60SGz+x/wKBgB+o\nx54duXb/HOFYxTuCFy34CWtgG6vZMyDszUs8+07Bs2DbxAC0x3k36kQaApVPEyaA\nGayfRnTl+lgeeh92LJhImXCalmVbBVZy3UpJVW45wb3w6l0Go3E02Q2rUlhOWoNs\nfgzqSLdgCaLy2Jhxsr7FbOjWFIgv6qb+UTuvXlDvAoGAWzeRUTnv363o4LV5Kpib\nHwSVl265hEUbFzEW+q9HtfstMrlM8QgvSiL+mCObTU8OCwCQVhmX6F8L5YIINLsg\n74+CkA3Qmuxn2zPCXz1CGXWzcPK27rLuXcvIoHgjDJwi87lX819RNfqQZ5B/rlcY\nYfKNsrkj79g8rPmZEpjndpY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ardra-572@enr-smart-parking.iam.gserviceaccount.com",
+  "client_id": "104206834082356417765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ardra-572%40enr-smart-parking.iam.gserviceaccount.com"
+}
